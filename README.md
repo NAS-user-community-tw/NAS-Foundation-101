@@ -31,7 +31,7 @@ NAS 基礎觀念 合集
 # Network Enviroment
 - [交換器(Switch)](https://zh.wikipedia.org/wiki/%E7%B6%B2%E8%B7%AF%E4%BA%A4%E6%8F%9B%E5%99%A8) - 擴大網路的器材，能為[子網路](https://zh.wikipedia.org/wiki/%E5%AD%90%E7%B6%B2%E8%B7%AF "子網路")中提供更多的[連接埠](https://zh.wikipedia.org/wiki/%E9%80%A3%E6%8E%A5%E5%9F%A0 "連接埠")，以便連接更多的[電腦](https://zh.wikipedia.org/wiki/%E9%9B%BB%E8%85%A6 "電腦")。.
 - [無線基地台(AP)](http://www.openswitch.net) - [電腦網路](https://zh.wikipedia.org/wiki/%E9%9B%BB%E8%85%A6%E7%B6%B2%E7%B5%A1 "電腦網路")中一種連接[無線網路](https://zh.wikipedia.org/wiki/%E6%97%A0%E7%BA%BF%E7%BD%91%E7%BB%9C "無線網路")至有線網路（[乙太網](https://zh.wikipedia.org/wiki/%E4%BB%A5%E5%A4%AA%E7%BD%91 "乙太網")）的裝置.
-- [路由器(Router)](https://opennetlinux.org) - A Linux distribution for "bare metal" switches, that is, network forwarding devices built from commodity components.
+- [路由器(Router)](https://zh.wikipedia.org/wiki/%E8%B7%AF%E7%94%B1%E5%99%A8) - 是一種[電訊](https://zh.wikipedia.org/wiki/%E9%9B%BB%E8%A8%8A "電訊")[網路](https://zh.wikipedia.org/wiki/%E7%BD%91%E7%BB%9C "網路")裝置，提供[路由](https://zh.wikipedia.org/wiki/%E8%B7%AF%E7%94%B1 "路由")與[轉送](https://zh.wikipedia.org/w/index.php?title=%E8%BD%89%E9%80%81&action=edit&redlink=1 "轉送（頁面不存在）")兩種重要機制，可以決定[封包](https://zh.wikipedia.org/wiki/%E5%B0%81%E5%8C%85 "封包")從來源端到目的端所經過的路由路徑（host到host之間的傳輸路徑），這個過程稱為路由；將路由器輸入端的封包移送至適當的路由器輸出端（在路由器內部進行），這稱為轉送。
 - [Cumulus Linux](https://cumulusnetworks.com) - Cumulus Linux is a powerful open network operating system that allows you to automate, customize and scale using web-scale principles like the world's largest data centers.
 - [OcNOS](https://www.ipinfusion.com/) - Extensive switching and routing protocol support with advanced
 capabilities such as MPLS and SDN
