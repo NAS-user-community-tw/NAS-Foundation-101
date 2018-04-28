@@ -24,7 +24,7 @@ NAS 基礎觀念 合集
   - [Paper](#paper)
 
 # Introduction
-  NAS 縮寫為 Network Attached Storage 的縮寫.
+  NAS (網路連接儲存裝置 / 網路儲存伺服器) 為 Network Attached Storage 的縮寫.
   Wiki : [Network Attached Storage](https://zh.wikipedia.org/wiki/%E7%B6%B2%E8%B7%AF%E9%99%84%E5%8A%A0%E5%84%B2%E5%AD%98)
 
 # Network Enviroment
