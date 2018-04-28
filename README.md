@@ -40,21 +40,21 @@ NAS 基礎觀念 合集
 
 **台灣常見網路設備品牌**  
 
---   [ASUS華碩](https://www.asus.com/tw/Networking/)
---   [Cerio智鼎](https://www.cerio.com.tw/)
---   [Cisco思科](https://24h.pchome.com.tw/store/DRAF00)
---   [D-Link友訊](https://24h.pchome.com.tw/store/DRAF09)
---   [DrayTek居易](https://24h.pchome.com.tw/store/DRAF04)
---   [EDIMAX 訊舟](https://24h.pchome.com.tw/store/DRAF0E)
---   [HUAWEI 華為](https://24h.pchome.com.tw/store/DRAF9C)
---   [NETGEAR](https://24h.pchome.com.tw/store/DRAF4H)
---   [netis](https://24h.pchome.com.tw/store/DRAF06)
---   [SAPIDO](https://24h.pchome.com.tw/store/DRAF0H)
---   [TP-LINK](https://24h.pchome.com.tw/store/DRAF07)
---   [Tenda](https://24h.pchome.com.tw/store/DRAF6N)
---   [TAMIO塔米歐](https://24h.pchome.com.tw/store/DRAF6Q)
---   [TOTOLINK](https://24h.pchome.com.tw/store/DRAF5L)
---   [Zyxel合勤](https://24h.pchome.com.tw/store/DRAF0I).  
+--   [ASUS 華碩](https://www.asus.com/tw/Networking/)
+--   [Cerio 智鼎](https://www.cerio.com.tw/)
+--   [Cisco 思科](https://www.cisco.com/c/zh_tw/solutions/enterprise-networks/index.html)
+--   [D-Link 友訊](http://www.dlinktw.com.tw/)
+--   [DrayTek 居易](https://www.draytek.com/zh/)
+--   [EDIMAX 訊舟](http://www.edimax.com.tw/edimax/tw/)
+--   [HUAWEI 華為](https://consumer.huawei.com/tw/)
+--   [NETGEAR](http://www.netbridgetech.com.tw/#)
+--   [netis](http://www.netis-systems.com.tw/)
+--   [SAPIDO](http://www.sapido.com.tw/TC/home.htm)
+--   [TP-LINK](https://www.tp-link.com/tw/)
+--   [Tenda](https://idotcom.com.tw/product-category/3c/tenda/)
+--   [TAMIO 塔米歐](https://www.tamio.com.tw/)
+--   [TOTOLINK](https://www.totolink.tw/)
+--   [Zyxel 合勤](https://www.zyxel.com/tw/zh/homepage.shtml) [何處購買](https://www.zyxel.com/tw/zh/where_to_buy/where_to_buy.shtml).  
 
 - [OcNOS](https://www.ipinfusion.com/) - Extensive switching and routing protocol support with advanced
 capabilities such as MPLS and SDN
