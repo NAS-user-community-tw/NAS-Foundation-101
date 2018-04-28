@@ -158,11 +158,15 @@ SONiC
 
 簡單來說，RAID把多個[硬碟](https://zh.wikipedia.org/wiki/%E7%A1%AC%E7%A2%9F "硬碟")組合成為一個邏輯磁區，因此，[作業系統](https://zh.wikipedia.org/wiki/%E4%BD%9C%E6%A5%AD%E7%B3%BB%E7%B5%B1 "作業系統")只會把它當作一個硬碟。RAID常被用在[伺服器](https://zh.wikipedia.org/wiki/%E4%BC%BA%E6%9C%8D%E5%99%A8 "伺服器")電腦上，並且常使用完全相同的硬碟作為組合。  
 
-RAID 1   
-![RAID 1](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/RAID_1.svg/195px-RAID_1.svg.png)  
+| RAID 1  | RAID 5   |
+|--|--|
+|![RAID 1](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/RAID_1.svg/195px-RAID_1.svg.png)  | ![RAID 5](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/RAID_5.svg/330px-RAID_5.svg.png) |
 
-RAID 5  
-![RAID 5](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/RAID_5.svg/330px-RAID_5.svg.png)  
+  
+  
+
+
+  
 
 - [OpenvSwtich](http://openvswitch.org/) - Open vSwitch is a production quality, multilayer virtual switch.
 - [Indigo](https://github.com/floodlight/indigo) - Indigo is an open source project aimed at enabling support for OpenFlow on physical and hypervisor switches.
