@@ -153,10 +153,12 @@ SONiC
 近年出現過的介面有 : **硬碟**按資料介面不同，大致分為[ATA](https://zh.wikipedia.org/wiki/ATA "ATA")（[IDE](https://zh.wikipedia.org/wiki/%E9%9B%86%E6%88%90%E8%AE%BE%E5%A4%87%E7%94%B5%E8%B7%AF "整合裝置電路")）和[SATA](https://zh.wikipedia.org/wiki/SATA "SATA")以及[SCSI](https://zh.wikipedia.org/wiki/SCSI "SCSI")和[SAS](https://zh.wikipedia.org/wiki/%E4%B8%B2%E5%88%97SCSI "串列SCSI")。  
 目前最多數使用的是 SATA 介面 .
 # RAID
-[RAID (磁碟陣列)](https://zh.wikipedia.org/wiki/RAID)  
+[RAID (磁碟陣列)](https://zh.wikipedia.org/wiki/RAID)    
+
 **容錯式磁碟陣列**（**RAID**,  **R**edundant  **A**rray of  **I**ndependent  **D**isks），舊稱**容錯式廉價磁碟陣列**（**R**edundant  **A**rray of  **I**nexpensive  **D**isks），簡稱**磁碟陣列**。其基本思想就是把多個相對便宜的硬碟組合起來，成為一個硬碟陣列組，使效能達到甚至超過一個價格昂貴、容量巨大的硬碟。根據選擇的版本不同，RAID比單顆硬碟有以下一個或多個方面的好處：增強資料整合度，增強容錯功能，增加處理量或容量。另外，磁碟陣列對於電腦來說，看起來就像一個單獨的硬碟或邏輯存儲單元。分為RAID-0，RAID-1，RAID-1E，RAID-5，RAID-6，RAID-7，RAID-10，RAID-50，RAID-60。
 
-簡單來說，RAID把多個[硬碟](https://zh.wikipedia.org/wiki/%E7%A1%AC%E7%A2%9F "硬碟")組合成為一個邏輯磁區，因此，[作業系統](https://zh.wikipedia.org/wiki/%E4%BD%9C%E6%A5%AD%E7%B3%BB%E7%B5%B1 "作業系統")只會把它當作一個硬碟。RAID常被用在[伺服器](https://zh.wikipedia.org/wiki/%E4%BC%BA%E6%9C%8D%E5%99%A8 "伺服器")電腦上，並且常使用完全相同的硬碟作為組合。  
+簡單來說，RAID把多個[硬碟](https://zh.wikipedia.org/wiki/%E7%A1%AC%E7%A2%9F "硬碟")組合成為一個邏輯磁區，因此，[作業系統](https://zh.wikipedia.org/wiki/%E4%BD%9C%E6%A5%AD%E7%B3%BB%E7%B5%B1 "作業系統")只會把它當作一個硬碟。RAID常被用在[伺服器](https://zh.wikipedia.org/wiki/%E4%BC%BA%E6%9C%8D%E5%99%A8 "伺服器")電腦上，並且常使用完全相同的硬碟作為組合。    
+
 
 | RAID 1  | RAID 5   |
 |--|--|
@@ -471,4 +473,3 @@ It is designed to run on any processors. The first supported CPU was Intel x86 a
 
 ## Awesome Slide
 - [Open Source Networking & ONAP - The Linux Foundation](https://actionweek.tmforum.org/wp-content/uploads/2017/09/TMF-Keynote-LF-Networking-ONAP-Sept-2017-vfinal.pdf)
- 
