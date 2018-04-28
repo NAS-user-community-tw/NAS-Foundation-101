@@ -23,7 +23,7 @@ NAS 基礎觀念 合集
   - [Books](#books)
   - [Paper](#paper)
 
-# Introduction
+# 介紹 # Introduction
   NAS (網路連接儲存裝置 / 網路儲存伺服器) 為 Network Attached Storage 的縮寫. 一般我們會將 NAS 主機 放在 區域網路內 , 使用者可以操作電腦 , 透過內部網路存取的方式 , 取得 NAS 上的檔案或者服務資源 . 內部網路通常會使用到 **交換器** / **無線基地台** 等等網路設備
   Wiki : [Network Attached Storage](https://zh.wikipedia.org/wiki/%E7%B6%B2%E8%B7%AF%E9%99%84%E5%8A%A0%E5%84%B2%E5%AD%98)
 
