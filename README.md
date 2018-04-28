@@ -1,8 +1,8 @@
 # NAS-Foundation-101
 NAS 基礎觀念 合集
   - [NAS 基礎觀念 合集](#NAS-Foundation-101)
-  - [介紹](#介紹)
-  - [Network Operating System](#network-operating-system)
+  - [介紹](#introduction)
+  - [常見小型網路架構](#Network Enviroment)
   - [Install Environment](#install-environment)
   - [Software Switch](#software-switch)
   - [Network Virtualization](#network-virtualization)
@@ -23,11 +23,11 @@ NAS 基礎觀念 合集
   - [Books](#books)
   - [Paper](#paper)
 
-# 介紹
+# Introduction
   NAS 縮寫為 Network Attached Storage 的縮寫.
   Wiki : [Network Attached Storage](https://zh.wikipedia.org/wiki/%E7%B6%B2%E8%B7%AF%E9%99%84%E5%8A%A0%E5%84%B2%E5%AD%98)
 
-# Network Operating System
+# Network Enviroment
 - [PicOS](http://www.pica8.com/products/picos) - A SDN OS for white box switches Layer-2/3 feature set with support for OpenFlow, OVSDB, and other protocols.
 - [Open Network Linux, ONL](https://opennetlinux.org) - A Linux distribution for "bare metal" switches, that is, network forwarding devices built from commodity components.
 - [OpenSwitch](http://www.openswitch.net) - A linux network operating system from Dell EMC.
