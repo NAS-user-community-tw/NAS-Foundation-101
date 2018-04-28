@@ -28,9 +28,9 @@ NAS 基礎觀念 合集
   Wiki : [Network Attached Storage](https://zh.wikipedia.org/wiki/%E7%B6%B2%E8%B7%AF%E9%99%84%E5%8A%A0%E5%84%B2%E5%AD%98)
 
 # Network Enviroment
-- [交換器-Switch](http://www.pica8.com/products/picos) - A SDN OS for white box switches Layer-2/3 feature set with support for OpenFlow, OVSDB, and other protocols.
-- [無線基地台-AP](http://www.openswitch.net) - A linux network operating system from Dell EMC.
-- [路由器-Router](https://opennetlinux.org) - A Linux distribution for "bare metal" switches, that is, network forwarding devices built from commodity components.
+- [交換器(Switch)](http://www.pica8.com/products/picos) - A SDN OS for white box switches Layer-2/3 feature set with support for OpenFlow, OVSDB, and other protocols.
+- [無線基地台(AP)](http://www.openswitch.net) - A linux network operating system from Dell EMC.
+- [路由器(Router)](https://opennetlinux.org) - A Linux distribution for "bare metal" switches, that is, network forwarding devices built from commodity components.
 - [Cumulus Linux](https://cumulusnetworks.com) - Cumulus Linux is a powerful open network operating system that allows you to automate, customize and scale using web-scale principles like the world's largest data centers.
 - [OcNOS](https://www.ipinfusion.com/) - Extensive switching and routing protocol support with advanced
 capabilities such as MPLS and SDN
