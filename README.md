@@ -68,10 +68,13 @@ SONiC
 近年出現過的介面有 : **硬碟**按資料介面不同，大致分為[ATA](https://zh.wikipedia.org/wiki/ATA "ATA")（[IDE](https://zh.wikipedia.org/wiki/%E9%9B%86%E6%88%90%E8%AE%BE%E5%A4%87%E7%94%B5%E8%B7%AF "整合裝置電路")）和[SATA](https://zh.wikipedia.org/wiki/SATA "SATA")以及[SCSI](https://zh.wikipedia.org/wiki/SCSI "SCSI")和[SAS](https://zh.wikipedia.org/wiki/%E4%B8%B2%E5%88%97SCSI "串列SCSI")。  
 目前最多數使用的是 SATA 介面 .
 # RAID
-[RAID (磁碟陣列)](https://zh.wikipedia.org/wiki/RAID)
-RAID 1 ![RAID 1](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/RAID_1.svg/195px-RAID_1.svg.png)  
+[RAID (磁碟陣列)](https://zh.wikipedia.org/wiki/RAID)  
 
-RAID 5 ![RAID 5](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/RAID_5.svg/330px-RAID_5.svg.png)  
+RAID 1   
+![RAID 1](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/RAID_1.svg/195px-RAID_1.svg.png)  
+
+RAID 5  
+![RAID 5](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/RAID_5.svg/330px-RAID_5.svg.png)  
 
 - [OpenvSwtich](http://openvswitch.org/) - Open vSwitch is a production quality, multilayer virtual switch.
 - [Indigo](https://github.com/floodlight/indigo) - Indigo is an open source project aimed at enabling support for OpenFlow on physical and hypervisor switches.
