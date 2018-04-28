@@ -40,20 +40,20 @@ NAS 基礎觀念 合集
 
 **台灣常見網路設備品牌**  
 
---   [ASUS 華碩](https://www.asus.com/tw/Networking/)
---   [Cerio 智鼎](https://www.cerio.com.tw/)
---   [Cisco 思科](https://www.cisco.com/c/zh_tw/solutions/enterprise-networks/index.html)
---   [D-Link 友訊](http://www.dlinktw.com.tw/)
---   [DrayTek 居易](https://www.draytek.com/zh/)
---   [EDIMAX 訊舟](http://www.edimax.com.tw/edimax/tw/)
---   [HUAWEI 華為](https://consumer.huawei.com/tw/)
---   [NETGEAR](http://www.netbridgetech.com.tw/#)
---   [netis](http://www.netis-systems.com.tw/)
---   [SAPIDO](http://www.sapido.com.tw/TC/home.htm)
---   [TP-LINK](https://www.tp-link.com/tw/)
---   [Tenda](https://idotcom.com.tw/product-category/3c/tenda/)
---   [TAMIO 塔米歐](https://www.tamio.com.tw/)
---   [TOTOLINK](https://www.totolink.tw/)
+--   [ASUS 華碩](https://www.asus.com/tw/Networking/) [何處購買]()
+--   [Cerio 智鼎](https://www.cerio.com.tw/) [何處購買](http://buy.cerio.com.tw/content.php?id=1562)
+--   [Cisco 思科](https://www.cisco.com/c/zh_tw/solutions/enterprise-networks/index.html) [何處購買](https://www.cisco.com/c/zh_tw/buy.html)
+--   [D-Link 友訊](http://www.dlinktw.com.tw/) [何處購買](http://www.dlinktw.com.tw/singlepage/location)
+--   [DrayTek 居易](https://www.draytek.com/zh/) [何處購買](https://www.draytek.com/zh/contact/global-partners.html)
+--   [EDIMAX 訊舟](http://www.edimax.com.tw/edimax/tw/) [何處購買](http://www.edimax.com.tw/edimax/post/post/data/edimax/tw/worldwide_contact/)
+--   [HUAWEI 華為](https://consumer.huawei.com/tw/) [何處購買](https://consumer.huawei.com/tw/store-finder/)
+--   [NETGEAR](http://www.netbridgetech.com.tw/#) [何處購買](http://shop.netbridgetech.com.tw/netbridge/)
+--   [netis](http://www.netis-systems.com.tw/) [何處購買](http://shop.netis-systems.com.tw/)
+--   [SAPIDO](http://www.sapido.com.tw/TC/home.htm) [何處購買](http://www.sapido.com.tw/TC/wheretobuy01.htm)
+--   [TP-LINK](https://www.tp-link.com/tw/) [何處購買](https://www.tp-link.com/tw/where-to-buy#%E7%B6%93%E9%8A%B7%E5%95%86)
+--   [Tenda](https://idotcom.com.tw/product-category/3c/tenda/) [何處購買](https://idotcom.com.tw/location/)
+--   [TAMIO 塔米歐](https://www.tamio.com.tw/) [何處購買](https://shop.tamio.com.tw/)
+--   [TOTOLINK](https://www.totolink.tw/) [何處購買](https://www.totolink.tw/about.php?id=225)
 --   [Zyxel 合勤](https://www.zyxel.com/tw/zh/homepage.shtml) [何處購買](https://www.zyxel.com/tw/zh/where_to_buy/where_to_buy.shtml).  
 
 - [OcNOS](https://www.ipinfusion.com/) - Extensive switching and routing protocol support with advanced
