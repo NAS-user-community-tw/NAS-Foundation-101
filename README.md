@@ -30,7 +30,7 @@ NAS 基礎觀念 合集
 
 # Network Enviroment
 - [交換器(Switch)](https://zh.wikipedia.org/wiki/%E7%B6%B2%E8%B7%AF%E4%BA%A4%E6%8F%9B%E5%99%A8) - 擴大網路的器材，能為[子網路](https://zh.wikipedia.org/wiki/%E5%AD%90%E7%B6%B2%E8%B7%AF "子網路")中提供更多的[連接埠](https://zh.wikipedia.org/wiki/%E9%80%A3%E6%8E%A5%E5%9F%A0 "連接埠")，以便連接更多的[電腦](https://zh.wikipedia.org/wiki/%E9%9B%BB%E8%85%A6 "電腦")。.
-- [無線基地台(AP)](https://zh.wikipedia.org/wiki/%E7%84%A1%E7%B7%9A%E6%8E%A5%E5%85%A5%E9%BB%9E) - 電腦網路中一種連接無線網路至有線網路（乙太網）的裝置.
+- [無線基地台(AP)](http://www.openswitch.net) - [電腦網路](https://zh.wikipedia.org/wiki/%E9%9B%BB%E8%85%A6%E7%B6%B2%E7%B5%A1 "電腦網路")中一種連接[無線網路](https://zh.wikipedia.org/wiki/%E6%97%A0%E7%BA%BF%E7%BD%91%E7%BB%9C "無線網路")至有線網路（[乙太網](https://zh.wikipedia.org/wiki/%E4%BB%A5%E5%A4%AA%E7%BD%91 "乙太網")）的裝置.
 - [路由器(Router)](https://opennetlinux.org) - A Linux distribution for "bare metal" switches, that is, network forwarding devices built from commodity components.
 - [Cumulus Linux](https://cumulusnetworks.com) - Cumulus Linux is a powerful open network operating system that allows you to automate, customize and scale using web-scale principles like the world's largest data centers.
 - [OcNOS](https://www.ipinfusion.com/) - Extensive switching and routing protocol support with advanced
