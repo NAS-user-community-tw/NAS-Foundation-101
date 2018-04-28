@@ -26,7 +26,7 @@ NAS 基礎觀念 合集
 
 # Preface  
 NAS 實際規劃與建置 , 會遇到 網路 / 儲存體 / 伺服器應用 / 資訊安全 / 風險控管 等等議題 , 本文無法涵蓋所有議題 , 因此將注意力放在 最小的必要核心概念上面 , 如果可以理解本文 , 相信就有機會開始理解 NAS 的大致樣貌 , 得到基礎的背景概念 , 進一步有能力 繼續研讀 更深入的 精彩應用 與 技術資訊 , 如果 閱讀本文讓您有點吃不消 , 可以多唸幾遍 , 回到 [NAS 社團](https://www.facebook.com/groups/nas.tw/) 請教一下其他社員 , 如果最後還是無法理解或者掌握 , 那麼 , 建議您 尋求 專業人員的協助 , 譬如 , 各家 NAS 原廠認證的 經銷商 或者 系統整合廠商 , 來為您的個人/家庭/企業組織 應用 , 做到 更為縝密以及適合的 規劃與建置目標 , 早日提升您的生活與工作效益 , 減少檔案資產的遺損風險 .   
-[-> 回到索引](#nas-foundation-101)
+[**-> 回到索引**](#nas-foundation-101)
 
 # Introduction
   NAS (網路連接儲存裝置 / 網路儲存伺服器) 為 Network Attached Storage 的縮寫.   
@@ -36,7 +36,7 @@ NAS 實際規劃與建置 , 會遇到 網路 / 儲存體 / 伺服器應用 / 資
   一般家庭或者中小企業 比較常使用的其實是 路由協定包含較少 的 **IP 分享器** , 常見的用途是 [NAT(網路地址轉換)](https://zh.wikipedia.org/wiki/%E7%BD%91%E7%BB%9C%E5%9C%B0%E5%9D%80%E8%BD%AC%E6%8D%A2).  
   
   NAS 的維基百科條例 , 請參考 : [Network Attached Storage](https://zh.wikipedia.org/wiki/%E7%B6%B2%E8%B7%AF%E9%99%84%E5%8A%A0%E5%84%B2%E5%AD%98)   
-  [-> 回到索引](#nas-foundation-101)
+[**-> 回到索引**](#nas-foundation-101)
 
 # Network Enviroment
 - [交換器(Switch)](https://zh.wikipedia.org/wiki/%E7%B6%B2%E8%B7%AF%E4%BA%A4%E6%8F%9B%E5%99%A8) - 擴大網路的器材，能為[子網路](https://zh.wikipedia.org/wiki/%E5%AD%90%E7%B6%B2%E8%B7%AF "子網路")中提供更多的[連接埠](https://zh.wikipedia.org/wiki/%E9%80%A3%E6%8E%A5%E5%9F%A0 "連接埠")，以便連接更多的[電腦](https://zh.wikipedia.org/wiki/%E9%9B%BB%E8%85%A6 "電腦")。.
@@ -60,7 +60,7 @@ NAS 實際規劃與建置 , 會遇到 網路 / 儲存體 / 伺服器應用 / 資
 --   [TAMIO 塔米歐](https://www.tamio.com.tw/) [何處購買](https://shop.tamio.com.tw/)
 --   [TOTOLINK](https://www.totolink.tw/) [何處購買](https://www.totolink.tw/about.php?id=225)
 --   [Zyxel 合勤](https://www.zyxel.com/tw/zh/homepage.shtml) [何處購買](https://www.zyxel.com/tw/zh/where_to_buy/where_to_buy.shtml).    
-[-> 回到索引](#nas-foundation-101)
+[**-> 回到索引**](#nas-foundation-101)
 
 - [OcNOS](https://www.ipinfusion.com/) - Extensive switching and routing protocol support with advanced
 capabilities such as MPLS and SDN
@@ -74,7 +74,7 @@ SONiC
 - [**硬碟**](https://zh.wikipedia.org/wiki/%E7%A1%AC%E7%9B%98) - （英語：**Hard Disk Drive**，簡稱**HDD**）是[電腦](https://zh.wikipedia.org/wiki/%E7%94%B5%E8%84%91 "電腦")上使用堅硬的旋轉碟片為基礎的[非揮發性](https://zh.wikipedia.org/wiki/%E9%9D%9E%E6%8C%A5%E5%8F%91%E6%80%A7%E8%AE%B0%E5%BF%86%E4%BD%93 "非揮發性記憶體")[儲存裝置](https://zh.wikipedia.org/wiki/%E5%AD%98%E5%82%A8%E8%AE%BE%E5%A4%87 "儲存裝置")，它在平整的磁性表面儲存和檢索數字資料，資訊通過離磁性表面很近的磁頭，由電磁流來改變極性方式被電磁流寫到磁碟上，資訊可以通過相反的方式讀取，例如讀頭經過紀錄資料的上方時[磁場](https://zh.wikipedia.org/wiki/%E7%A3%81%E5%9C%BA "磁場")導致線圈中電氣訊號的改變。硬碟的讀寫是採用[隨機存取](https://zh.wikipedia.org/wiki/%E9%9A%A8%E6%A9%9F%E5%AD%98%E5%8F%96 "隨機存取")的方式，因此可以以任意順序讀取硬碟中的資料[[2]](https://zh.wikipedia.org/wiki/%E7%A1%AC%E7%9B%98#cite_note-2)。硬碟包括一至數片高速轉動的磁碟以及放在[致動器](https://zh.wikipedia.org/wiki/%E6%89%A7%E8%A1%8C%E5%99%A8 "致動器")懸臂上的磁頭。    
 近年出現過的介面有 : **硬碟**按資料介面不同，大致分為[ATA](https://zh.wikipedia.org/wiki/ATA "ATA")（[IDE](https://zh.wikipedia.org/wiki/%E9%9B%86%E6%88%90%E8%AE%BE%E5%A4%87%E7%94%B5%E8%B7%AF "整合裝置電路")）和[SATA](https://zh.wikipedia.org/wiki/SATA "SATA")以及[SCSI](https://zh.wikipedia.org/wiki/SCSI "SCSI")和[SAS](https://zh.wikipedia.org/wiki/%E4%B8%B2%E5%88%97SCSI "串列SCSI")。  
 目前最多數使用的是 SATA 介面 .  
-[-> 回到索引](#nas-foundation-101)
+[**-> 回到索引**](#nas-foundation-101)
 # RAID
 [RAID (磁碟陣列)](https://zh.wikipedia.org/wiki/RAID)    
 
@@ -87,13 +87,8 @@ SONiC
 |--|--|
 |![RAID 1](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/RAID_1.svg/195px-RAID_1.svg.png)  | ![RAID 5](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/RAID_5.svg/330px-RAID_5.svg.png) |    
 
-[-> 回到索引](#nas-foundation-101)
-
-  
-  
-
-
-  
+[**-> 回到索引**](#nas-foundation-101)
+   
 
 - [OpenvSwtich](http://openvswitch.org/) - Open vSwitch is a production quality, multilayer virtual switch.
 - [Indigo](https://github.com/floodlight/indigo) - Indigo is an open source project aimed at enabling support for OpenFlow on physical and hypervisor switches.
