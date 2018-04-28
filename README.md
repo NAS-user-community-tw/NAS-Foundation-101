@@ -1,7 +1,7 @@
 
 # NAS-Foundation-101
 NAS 基礎觀念 合集
-  - [NAS 基礎觀念 合集](#NAS-Foundation-101)
+  - [NAS 基礎觀念 合集](#nas-foundation-101)
   - [介紹](#introduction)
   - [常見小型網路架構](#network-enviroment)
   - [硬碟](#hard-disk-drive)
