@@ -1,7 +1,7 @@
 # NAS-Foundation-101
 NAS 基礎觀念 合集
   - [NAS 基礎觀念 合集](#NAS-Foundation-101)
-  - [介紹](#introduction)
+  - [介紹](#介紹)
   - [Network Operating System](#network-operating-system)
   - [Install Environment](#install-environment)
   - [Software Switch](#software-switch)
@@ -23,7 +23,7 @@ NAS 基礎觀念 合集
   - [Books](#books)
   - [Paper](#paper)
 
-# Introduction
+# 介紹
   NAS 縮寫為 Network Attached Storage 的縮寫.
   Wiki : [Network Attached Storage](https://zh.wikipedia.org/wiki/%E7%B6%B2%E8%B7%AF%E9%99%84%E5%8A%A0%E5%84%B2%E5%AD%98)
 
