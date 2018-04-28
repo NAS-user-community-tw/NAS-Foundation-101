@@ -3,7 +3,7 @@ NAS 基礎觀念 合集
   - [NAS 基礎觀念 合集](#NAS-Foundation-101)
   - [介紹](#introduction)
   - [常見小型網路架構](#network-enviroment)
-  - [Install Environment](#install-environment)
+  - [硬碟](#hard-disk-drive)
   - [Software Switch](#software-switch)
   - [Network Virtualization](#network-virtualization)
   - [Protocol](#protocol)
@@ -40,7 +40,7 @@ capabilities such as MPLS and SDN
 SONiC
 
 
-# Install Environment
+# Hard Disk Drive
 - [ONIE](http://onie.org/) - ONIE enables a bare metal network switch ecosystem where end users have a choice among different network operating systems.
 
 # Software Switch
