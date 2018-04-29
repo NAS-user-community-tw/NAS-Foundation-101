@@ -2,7 +2,7 @@
 NAS 基礎觀念 合集
   - [NAS 基礎觀念 合集](#nas-foundation-101)
   - [前言](#preface)  
-  - [新手採購/建構方案訣竅](#construction tips)
+  - [新手採購/建構方案訣竅](#constructiontips)
   - [介紹](#introduction)
   - [常見小型網路架構](#network-enviroment)
   - [硬碟](#hard-disk-drive)
