@@ -3,14 +3,15 @@
 
 " ... 產品是原廠設計的 , 他們才知道問題與解決方式 , 試想 , 當您遇到麻煩問題 , 連電話都打不進去(或者打進去得無窮盡等待)的時候 , 該怎麼辦 ? ..."
 
-索引
-[複雜度的起源](#comlexity)
-[消費者如何克服](#get-over)
-[實際的情況是這樣的](#the-facts)
-[惡性循環的樣貌](#vicious-circle)
-[採購前先試試看這樣](#try-before-you-buy-it)
-[NAS 易學易用的銷售話術](#sales-words)
-[在意服務品質可以這樣買](#qualitied-service)
+索引  
+[複雜度的起源](#comlexity)  
+[消費者如何克服](#get-over)  
+[實際的情況是這樣的](#the-facts)  
+[惡性循環的樣貌](#vicious-circle)  
+[採購前先試試看這樣](#try-before-you-buy-it)  
+[NAS 易學易用的銷售話術](#sales-words)  
+[在意服務品質可以這樣買](#qualitied-service)  
+
 
 # Complexity  
 
