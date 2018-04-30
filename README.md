@@ -8,7 +8,7 @@ NAS 基礎觀念 合集
   - [硬碟](#hard-disk-drive)
   - [磁碟陣列](#raid)  
   - [資訊安全](#information-security)  
-  - [技術服務](#technical-services)  
+  - [技術服務](#technical-services)  
   - [Protocol](#protocol)
   - [Controller](#controller)
   - [Simulator/Emulator](#simulatoremulator)
