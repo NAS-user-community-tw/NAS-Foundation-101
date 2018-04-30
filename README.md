@@ -7,7 +7,7 @@ NAS 基礎觀念 合集
   - [常見小型網路架構](#network-enviroment)
   - [硬碟](#hard-disk-drive)
   - [磁碟陣列](#raid)
-  - [Network Virtualization](#network-virtualization)
+  - [資訊安全](#information-security)
   - [Protocol](#protocol)
   - [Controller](#controller)
   - [Simulator/Emulator](#simulatoremulator)
@@ -133,10 +133,16 @@ SONiC
 - [BESS](https://github.com/NetSys/bess) - Berkeley Extensible Software Switch, BESS is a modular framework for software switches.
 - [FD.IO](https://fd.io/) - Relentlessly focused on data IO speed and efficiency for more flexible and scalable networks and storage
 
-# Network Virtualization
+# Information Security
 
-- [FlowVisor](https://github.com/opennetworkinglab/flowvisor) - An OpenFlow controller that acts as a hypervisor/proxy between a switch and multiple controllers. Can slice multiple switches in parallel, effectively slicing a network.
-- [OpenVirtex](https://github.com/opennetworkinglab/OpenVirteX) - A network hypervisor that can create multiple virtual and programmable networks on top of a single physical infrastructure.
+- [資訊安全](https://zh.wikipedia.org/wiki/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8) - 為保護資訊及資訊系統免受未經授權的進入、使用、披露、破壞、修改、檢視、記錄及銷毀。
+
+政府、軍隊、公司、金融機構、醫院、私人企業積累了大量的有關他們的雇員、顧客、產品、研究、金融資料的機密資訊。絕大多數此類的資訊現在被收集、產生、儲存在電子電腦內，並通過網路傳送到別的電腦。
+
+萬一諸如一家企業的顧客、財政狀況、新產品線的機密資訊落入了其競爭對手的掌握，這種資安性的喪失可能會導致經濟上的損失、法律訴訟甚至該企業的破產。保護機密的資訊是商業上的需求，並且在許多情況中也是道德和法律上的需求。
+- [OpenVirtex](https://github.com/opennetworkinglab/OpenVirteX) - A network hypervisor that can create multiple virtual and programmable networks on top of a single physical infrastructure.  
+
+[**-> 回到索引**](#nas-foundation-101)
 
 # Protocol
 
