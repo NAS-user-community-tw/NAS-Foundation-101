@@ -7,12 +7,13 @@
 
 # 網路設備/方案 廠商 :  
 
-- Asus(華碩) :   
-- Cerio(智鼎)
+- Asus(華碩) : [家用產品資訊](https://www.asus.com/tw/Networking/)  
+- Cerio(智鼎) : 
 - D-link(友訊) :  
 - Draytek(居易) :  
-- Edimax(訊舟) :  
-- MikroTik() :  
+- Edimax(訊舟) :  
+- HP(惠普) : [產品資訊](http://www8.hp.com/tw/zh/hpe/hpe-renew-ap/networking.html)
+- MikroTik() :  
 - Netgear(網件) :
 - Nusoft(新軟) :   
 - Sharetech(眾至) :  
