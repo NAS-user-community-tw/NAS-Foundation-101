@@ -7,7 +7,8 @@ NAS 基礎觀念 合集
   - [常見小型網路架構](#network-enviroment)
   - [硬碟](#hard-disk-drive)
   - [磁碟陣列](#raid)  
-  - [資訊安全](#information-security)
+  - [資訊安全](#information-security)  
+  - [技術服務](#technical-services)  
   - [Protocol](#protocol)
   - [Controller](#controller)
   - [Simulator/Emulator](#simulatoremulator)
@@ -145,7 +146,15 @@ SONiC
 萬一諸如一家企業的顧客、財政狀況、新產品線的機密資訊落入了其競爭對手的掌握，這種資安性的喪失可能會導致經濟上的損失、法律訴訟甚至該企業的破產。保護機密的資訊是商業上的需求，並且在許多情況中也是道德和法律上的需求。
 - [OpenVirtex](https://github.com/opennetworkinglab/OpenVirteX) - A network hypervisor that can create multiple virtual and programmable networks on top of a single physical infrastructure.  
 
-[**-> 回到索引**](#nas-foundation-101)
+[**-> 回到索引**](#nas-foundation-101)  
+
+# Technical Services  
+
+技術服務對於 NAS 這類 多功能 以及 環境因素嚴重關聯 的產品 , 是非常重要的項目 . 試想 :  
+
+"...產品是原廠設計的 , 他們才知道問題與解決方式 , 試想 , 當您遇到麻煩問題 , 連電話都打不進去(或者打進去得無窮盡等待)的時候 , 該怎麼辦 ? ..."
+
+另外寫成一篇 [文章](/Technical-Services.md) , 請讀者們參考 .
 
 # Protocol
 
