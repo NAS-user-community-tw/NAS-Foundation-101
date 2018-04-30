@@ -12,7 +12,7 @@
 [惡性循環的樣貌](#vicious-circle)  
 [採購前先試試看這樣](#try-before-you-buy-it)  
 [NAS 易學易用的銷售話術](#sales-words)  
-[在意服務品質可以這樣買](#qualitied-service)  
+[在意服務品質可以這樣買](#qualified-service)  
 
 
 # Complexity  
@@ -128,7 +128,7 @@ i. 不懂 , ii. 不做
 
 [回到索引頁](#index)  
 
-# Qualitied service  
+# Qualified service  
 
 [在意服務品質可以這樣買]
 
