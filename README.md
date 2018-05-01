@@ -9,7 +9,7 @@ NAS 基礎觀念 合集
   - [磁碟陣列](#raid)  
   - [資訊安全](#information-security)  
   - [技術服務](#technical-services)  
-  - [NAS軟體發展與價值](#nas-software-development-and-value)
+  - [NAS軟體發展與價值](#nas-software-development-and-value)
   - [Protocol](#protocol)
   - [Controller](#controller)
   - [Simulator/Emulator](#simulatoremulator)
