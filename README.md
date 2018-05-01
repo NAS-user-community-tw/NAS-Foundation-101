@@ -9,7 +9,7 @@ NAS 基礎觀念 合集
   - [磁碟陣列](#raid)  
   - [資訊安全](#information-security)  
   - [技術服務](#technical-services)  
-  - [NAS軟體發展價值](#nas-software-development-adn-value)
+  - [NAS軟體發展價值](#nas-software-development-and-value)
   - [Protocol](#protocol)
   - [Controller](#controller)
   - [Simulator/Emulator](#simulatoremulator)
@@ -159,9 +159,9 @@ SONiC
 
 [**-> 回到索引**](#nas-foundation-101)
 
-# NAS Software Devlopment and Value
+# NAS Software Development and Value
 
-台灣主要 NAS 廠商 , 都已經投入超過 十年以上的產品與軟體開發 , 產出了許多 有趣 有用 的系統功能 以及 軟體套件 , 甚至是行動裝置上的 App , 以及輔助或者進一步的雲端服務 , 個人家庭 或者 企業組織 如何從行銷文字中 , 判斷如何採用哪一項 產品 / 軟體 / 服務 呢 ? [這一篇文章](/NAS-Software-Devlopment-And-Value.md) 會有進一步的解釋與說明 .  
+台灣主要 NAS 廠商 , 都已經投入超過 十年以上的產品與軟體開發 , 產出了許多 有趣 有用 的系統功能 以及 軟體套件 , 甚至是行動裝置上的 App , 以及輔助或者進一步的雲端服務 , 個人家庭 或者 企業組織 如何從行銷文字中 , 判斷如何採用哪一項 產品 / 軟體 / 服務 呢 ? [這一篇文章](/NAS-Software-Development-And-Value.md) 會有進一步的解釋與說明 .  
 
 [**-> 回到索引**](#nas-foundation-101)
 
