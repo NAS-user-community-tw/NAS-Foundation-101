@@ -26,7 +26,7 @@ NAS 上面可以安裝 各類服務套件 , 像是 :
 
 能用第一名的產品 , 通常不會屈就排名後面的產品 (或者服務) , 除非像是 :
 
-1. 預算考量 : 當企業組織自己有 IT 專職人員 , 老闆也支持 , 就可能往 開源方向去思考 (可以向 [中華民國軟體自由協會](https://www.facebook.com/slat.org/?ref=gs&fref=gs&dti=135606248244&hc_location=group) [台中自由軟體愛好者社群 (TFC)](https://www.facebook.com/groups/tfc.tw/?ref=gs&fref=gs&dti=135606248244&hc_location=group) [Jason Cheng 兄](https://www.facebook.com/jason.cheng.9615?fref=gs&dti=135606248244&hc_location=group) 請益) 
+1. 預算考量 : 當企業組織自己有 IT 專職人員 , 老闆也支持 , 就可能往 開源方向去思考 (可以向 [中華民國軟體自由協會](https://www.facebook.com/slat.org/?ref=gs&fref=gs&dti=135606248244&hc_location=group) / [台中自由軟體愛好者社群 (TFC)](https://www.facebook.com/groups/tfc.tw/?ref=gs&fref=gs&dti=135606248244&hc_location=group) / [Jason Cheng 兄](https://www.facebook.com/jason.cheng.9615?fref=gs&dti=135606248244&hc_location=group) 請益) 
 
 2. 沒有專業或者兼職人員幫忙 : 可以退一步考慮 NAS 這類像是綜合包的產品方案 , 裡面包了一大堆可能性 , 做成簡易可安裝啟用的套件 , 供 欠缺 IT 專業人員的 企業或組織使用 .  
 
