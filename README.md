@@ -9,7 +9,8 @@ NAS 基礎觀念 合集
   - [磁碟陣列](#raid)  
   - [資訊安全](#information-security)  
   - [技術服務](#technical-services)  
-  - [NAS軟體發展與價值](#nas-software-development-and-value)
+  - [NAS軟體發展與價值](#nas-software-development-and-value)  
+  - [風險控管](#risk-management)  
   - [Protocol](#protocol)
   - [Controller](#controller)
   - [Simulator/Emulator](#simulatoremulator)
@@ -161,7 +162,17 @@ SONiC
 
 # NAS Software Development and Value
 
-台灣主要 NAS 廠商 , 都已經投入超過 十年以上的產品與軟體開發 , 產出了許多 有趣 有用 的系統功能 以及 軟體套件 , 甚至是行動裝置上的 App , 以及輔助或者進一步的雲端服務 , 個人家庭 或者 企業組織 如何從行銷文字中 , 判斷如何採用哪一項 產品 / 軟體 / 服務 呢 ? [這一篇文章](/NAS_Software_Development_And_Value.md) 會有進一步的解釋與說明 .  
+NAS軟體發展與價值
+
+台灣主要 NAS 廠商 , 都已經投入超過 十年以上的產品與軟體開發 , 產出了許多 有趣 有用 的系統功能 以及 軟體套件 , 甚至是行動裝置上的 App , 以及輔助或者進一步的雲端服務 , 個人家庭 或者 企業組織 如何從行銷文字中 , 判斷如何採用哪一項 產品 / 軟體 / 服務 呢 ? [這一篇文章](/NAS_Software_Development_And_Value.md) 會有進一步的解釋與說明 .
+
+[**-> 回到索引**](#nas-foundation-101)
+
+# Risk Management
+
+風險控管
+
+只要是電子與機械設備 , 一定是有限期的保固 , 使用過程中也很容易遇到故障的情況 , 加上軟體是人寫的 , 也都有出差錯的機會 . 那麼 , 放在 NAS 上的珍貴資料不就是存在 有風險的主機上面嗎 ? 使用者如何面對並解決這問題呢 ? 請參考 [這一篇文章](/Risk_Management.md)  
 
 [**-> 回到索引**](#nas-foundation-101)
 
