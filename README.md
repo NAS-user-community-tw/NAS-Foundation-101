@@ -113,7 +113,7 @@ SONiC
 # RAID
 [RAID (磁碟陣列)](https://zh.wikipedia.org/wiki/RAID)    
 
-**容錯式磁碟陣列**（**RAID**,  **R**edundant  **A**rray of  **I**ndependent  **D**isks），舊稱**容錯式廉價磁碟陣列**（**R**edundant  **A**rray of  **I**nexpensive  **D**isks），簡稱**磁碟陣列**。其基本思想就是把多個相對便宜的硬碟組合起來，成為一個硬碟陣列組，使效能達到甚至超過一個價格昂貴、容量巨大的硬碟。根據選擇的版本不同，RAID比單顆硬碟有以下一個或多個方面的好處：增強資料整合度，增強容錯功能，增加處理量或容量。另外，磁碟陣列對於電腦來說，看起來就像一個單獨的硬碟或邏輯存儲單元。分為[RAID-0](https://zh.wikipedia.org/wiki/RAID#RAID_0)，[RAID-1](https://zh.wikipedia.org/wiki/RAID#RAID_1)，RAID-1E，[RAID-5](https://zh.wikipedia.org/wiki/RAID#RAID_5)，[RAID-6](https://zh.wikipedia.org/wiki/RAID#RAID_6)，RAID-7，RAID-10，RAID-50，RAID-60。(其他常見的還有 : [JBOD](https://zh.wikipedia.org/wiki/RAID#JBOD) , 以及 [RAID 10/01](https://zh.wikipedia.org/wiki/RAID#RAID_10/01))
+**容錯式磁碟陣列**（**RAID**,  **R**edundant  **A**rray of  **I**ndependent  **D**isks），舊稱**容錯式廉價磁碟陣列**（**R**edundant  **A**rray of  **I**nexpensive  **D**isks），簡稱**磁碟陣列**。其基本思想就是把多個相對便宜的硬碟組合起來，成為一個硬碟陣列組，使效能達到甚至超過一個價格昂貴、容量巨大的硬碟。根據選擇的版本不同，RAID比單顆硬碟有以下一個或多個方面的好處：`增強資料整合度`，`增強容錯功能`，`增加處理量或容量`。另外，磁碟陣列對於電腦來說，看起來就像一個單獨的硬碟或邏輯存儲單元。分為[RAID-0](https://zh.wikipedia.org/wiki/RAID#RAID_0)，[RAID-1](https://zh.wikipedia.org/wiki/RAID#RAID_1)，RAID-1E，[RAID-5](https://zh.wikipedia.org/wiki/RAID#RAID_5)，[RAID-6](https://zh.wikipedia.org/wiki/RAID#RAID_6)，RAID-7，RAID-10，RAID-50，RAID-60。(其他常見的還有 : [JBOD](https://zh.wikipedia.org/wiki/RAID#JBOD) , 以及 [RAID 10/01](https://zh.wikipedia.org/wiki/RAID#RAID_10/01))
 
 簡單來說，RAID把多個[硬碟](https://zh.wikipedia.org/wiki/%E7%A1%AC%E7%A2%9F "硬碟")組合成為一個邏輯磁區，因此，[作業系統](https://zh.wikipedia.org/wiki/%E4%BD%9C%E6%A5%AD%E7%B3%BB%E7%B5%B1 "作業系統")只會把它當作一個硬碟。RAID常被用在[伺服器](https://zh.wikipedia.org/wiki/%E4%BC%BA%E6%9C%8D%E5%99%A8 "伺服器")電腦上，並且常使用完全相同的硬碟作為組合。    
 
