@@ -27,6 +27,7 @@ NAS 基礎觀念 合集
   - [Resources](#resources)
   - [Books](#books)
   - [Paper](#paper)  
+  - [Markdown編輯器與語法參考](#markdown-reference)
 
 # Preface  
 NAS 實際規劃與建置 , 會遇到 網路 / 儲存體 / 伺服器應用 / 資訊安全 / 風險控管 / 災難復原 等等議題 , 本文無法涵蓋所有議題 , 因此將注意力放在 最小的必要核心概念上面 , 如果可以理解本文 , 相信就有機會開始理解 NAS 的大致樣貌 , 得到基礎的背景概念 , 進一步有能力 繼續研讀 更深入的 精彩應用 與 技術資訊 , 如果 閱讀本文讓您有點吃不消 , 可以多唸幾遍 , 回到 [NAS 社團](https://www.facebook.com/groups/nas.tw/) 請教一下其他社員 , 如果最後還是無法理解或者掌握 , 那麼 , 建議您 尋求 專業人員的協助 , 譬如 , 各家 NAS 原廠認證的 經銷商 或者 系統整合廠商 , 來為您的個人/家庭/企業組織 應用 , 做到 更為縝密以及適合的 規劃與建置目標 , 早日提升您的生活與工作效益 , 減少檔案資產的遺損風險 .  
@@ -320,5 +321,13 @@ It is designed to run on any processors. The first supported CPU was Intel x86 a
 
 
 - [FlowVisor](https://github.com/opennetworkinglab/flowvisor) - An OpenFlow controller that acts as a hypervisor/proxy between a switch and multiple controllers. Can slice multiple switches in parallel, effectively slicing a network.
-- [OpenVirtex](https://github.com/opennetworkinglab/OpenVirteX) - A network hypervisor that can create multiple virtual and programmable networks on top of a single physical infrastructure.
+- [OpenVirtex](https://github.com/opennetworkinglab/OpenVirteX) - A network hypervisor that can create multiple virtual and programmable networks on top of a single physical infrastructure.  
+
+# Markdown Reference
+
+Markdown 文件編輯器與語法參考  
+線上編輯器 可以參考 [Stackedit.io](https://stackedit.io/app#) 
+語法 可以參考 [中文版](https://github.com/othree/markdown-syntax-zhtw)  
+
+[**-> 回到索引**](#nas-foundation-101)  
 
