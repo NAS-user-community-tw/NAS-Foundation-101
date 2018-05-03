@@ -107,7 +107,9 @@ SONiC
 # Hard Disk Drive
 - [**硬碟**](https://zh.wikipedia.org/wiki/%E7%A1%AC%E7%9B%98) - （英語：**Hard Disk Drive**，簡稱**HDD**）是[電腦](https://zh.wikipedia.org/wiki/%E7%94%B5%E8%84%91 "電腦")上使用堅硬的旋轉碟片為基礎的[非揮發性](https://zh.wikipedia.org/wiki/%E9%9D%9E%E6%8C%A5%E5%8F%91%E6%80%A7%E8%AE%B0%E5%BF%86%E4%BD%93 "非揮發性記憶體")[儲存裝置](https://zh.wikipedia.org/wiki/%E5%AD%98%E5%82%A8%E8%AE%BE%E5%A4%87 "儲存裝置")，它在平整的磁性表面儲存和檢索數字資料，資訊通過離磁性表面很近的磁頭，由電磁流來改變極性方式被電磁流寫到磁碟上，資訊可以通過相反的方式讀取，例如讀頭經過紀錄資料的上方時[磁場](https://zh.wikipedia.org/wiki/%E7%A3%81%E5%9C%BA "磁場")導致線圈中電氣訊號的改變。硬碟的讀寫是採用[隨機存取](https://zh.wikipedia.org/wiki/%E9%9A%A8%E6%A9%9F%E5%AD%98%E5%8F%96 "隨機存取")的方式，因此可以以任意順序讀取硬碟中的資料[[2]](https://zh.wikipedia.org/wiki/%E7%A1%AC%E7%9B%98#cite_note-2)。硬碟包括一至數片高速轉動的磁碟以及放在[致動器](https://zh.wikipedia.org/wiki/%E6%89%A7%E8%A1%8C%E5%99%A8 "致動器")懸臂上的磁頭。    
 近年出現過的介面有 : **硬碟**按資料介面不同，大致分為[ATA](https://zh.wikipedia.org/wiki/ATA "ATA")（[IDE](https://zh.wikipedia.org/wiki/%E9%9B%86%E6%88%90%E8%AE%BE%E5%A4%87%E7%94%B5%E8%B7%AF "整合裝置電路")）和[SATA](https://zh.wikipedia.org/wiki/SATA "SATA")以及[SCSI](https://zh.wikipedia.org/wiki/SCSI "SCSI")和[SAS](https://zh.wikipedia.org/wiki/%E4%B8%B2%E5%88%97SCSI "串列SCSI")。  
-目前最多數使用的是 SATA 介面 .  
+目前最多數使用的是 SATA 介面 .  
+
+硬碟內的各種機構與零件 , 可以參考這一篇 [OSSLab 分享文](http://www.osslab.org.tw/Storage/HDD/Hardware/HDA/Rlab) , 或者 [原文](http://hddscan.com/doc/HDD_from_inside.html)
 
 [**-> 回到索引**](#nas-foundation-101)  
 
