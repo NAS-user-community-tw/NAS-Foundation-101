@@ -125,6 +125,8 @@ SONiC
 |--|--|
 |![RAID 1](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/RAID_1.svg/195px-RAID_1.svg.png)  | ![RAID 5](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/RAID_5.svg/330px-RAID_5.svg.png) |    
 
+提到 RAID , 就得提到 : [David A. Patterson 的 "A Case for Redundant Arrays of Inexpensive Disks(RAID)"](http://people.eecs.berkeley.edu/~kubitron/courses/cs262a-S16/handouts/papers/p109-patterson.pdf) , 以及 [Neil Brown](https://neil.brown.name/blog/mdadm) 的 mdadm (一種軟體工具 , 用來管理 Linux下的軟體陣列) .
+
 [**-> 回到索引**](#nas-foundation-101)
    
 
