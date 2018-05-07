@@ -14,7 +14,7 @@
 
 是十年二十年所形成 , 他們在腦子裡 鏈結 成為一幅壯觀而有效率的 連結圖 .
 
-![知識領域 關鍵概念 的 關聯圖 示意圖](https://cdn-images-1.medium.com/max/1600/1*UlfG6Q33A88oLXWc4h0BKQ.jpeg)
+![知識領域 關鍵概念 的 關聯圖 示意圖](https://cdn-images-1.medium.com/max/1600/1*UlfG6Q33A88oLXWc4h0BKQ.jpeg "A node-link graph of Apple Patent collaborators.")
 
 NAS 原廠很努力地致力於 易學易用 這件事情 , 但是展開 NAS 所需的 技術知識與觀念 , 可以製造出類似於 引用文件中的第一張圖 : Apple / Google 專利關聯性的協作圖 , 這麼複雜 .
 
